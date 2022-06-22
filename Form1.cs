@@ -19,7 +19,7 @@ namespace Git_Tutorial_2
     
         public void Method1()
         {
-
+            Console.WriteLine("Display Something");
         } // Method1()
 
     }
